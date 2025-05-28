@@ -5,7 +5,7 @@ This project demonstrates data analysis on large datasets using **Apache Spark**
 ## 🔗 Social
 
 📢 I shared this project and its insights on LinkedIn!  
-👉 [View LinkedIn Post]([https://www.linkedin.com/posts/YOUR-LINKEDIN-POST-URL](https://www.linkedin.com/posts/mubashir-ul-hassan_bigdata-pyspark-apachespark-activity-7333383850661679107-9iwv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdI9vMB1c3F3KHIkcvCH_eAEolcHbIjrzE))
+👉 [View LinkedIn Post](https://www.linkedin.com/posts/mubashir-ul-hassan_bigdata-pyspark-apachespark-activity-7333383850661679107-9iwv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdI9vMB1c3F3KHIkcvCH_eAEolcHbIjrzE)
 
 Feel free to like, comment, or share your thoughts!
 
